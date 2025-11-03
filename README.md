@@ -3,7 +3,8 @@
 Ky repositorium përmban kodin burimor për një sistem të plotë e-learning të ndërtuar me FastAPI. Projekti ofron funksionalitete moderne si menaxhimi i kurseve, modulet, leksionet, detyrat, quiz-et, njoftimet, diskutimet dhe komunikimin me mesazhe private.
 
 ## Si të nisni
-Lexoni dokumentin [backend/README.md](backend/README.md) për udhëzime të detajuara rreth instalimit të varësive, konfigurimit të domenit të autorizuar për hyrje dhe startimit të serverit.
+- Ndiq udhëzuesin hap pas hapi në [RUNNING.md](RUNNING.md) për të nisur shpejt backend-in dhe frontend-in në të njëjtin kompjuter.
+- Lexo dokumentin [backend/README.md](backend/README.md) për udhëzime të detajuara rreth instalimit të varësive, konfigurimit të domenit të autorizuar për hyrje dhe startimit të serverit.
 
 ### Testimi i plotë i aplikacionit
 1. **Nis API-në** duke ndjekur hapat në `backend/README.md` (krijimi i ambientit virtual, instalimi i varësive dhe komanda `uvicorn`).
