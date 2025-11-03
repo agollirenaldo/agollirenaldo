@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+elearning.db
+frontend/node_modules/
+frontend/dist/
+frontend/.env
